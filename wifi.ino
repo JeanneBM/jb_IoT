@@ -4,7 +4,7 @@
 #include <ESP8266WebServer.h>
 #ifndef APSSID
 #define APSSID "espjb"
-#define APPSK "maja"
+#define APPSK "gvguvgkvjjl" //haslo musi miec przynajmniej 8 znakow
 #endif
 
 const char *ssid = APSSID;
